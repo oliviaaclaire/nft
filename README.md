@@ -1,4 +1,4 @@
-# olivia nft profile picture
+# olivia nft profile pictures
 - 0x6f6c69766961 (1).jpg
 - 0x6f6c69766961 (2).jpg
 - 0x6f6c69766961 (3).jpg
